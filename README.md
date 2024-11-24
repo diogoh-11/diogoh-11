@@ -29,11 +29,10 @@ Here are some ideas to get you started:
 ### 🐍 Snake Animation
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/diogoh-11/diogoh-11/assets/dist/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/diogoh-11/diogoh-11/assets/dist/github-contribution-grid-snake.svg">
-  <img alt="github-snake" src="github-snake.svg">
-</picture>
+<div align="center">
+    
+  ![snake gif](https://github.com/diogoh-11/diogoh-11/blob/output/github-snake-dark.svg)
+</div>
 ---
 
 ### 💻 Technologies & Tools
