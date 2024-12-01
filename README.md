@@ -26,7 +26,9 @@ Here are some ideas to get you started:
 
 ---
 
-### 🐍 Snake Animation
+<div align="center">
+  <h1>🐍 Snake Animation</h1>
+</div>
 
 
 <div align="center">
@@ -36,7 +38,9 @@ Here are some ideas to get you started:
 
 ---
 
-### 💻 Technologies & Tools
+<div align="center">
+  <h1>💻 Technologies & Tools</h1>
+</div>
 
 <div align="center">
   <table>
